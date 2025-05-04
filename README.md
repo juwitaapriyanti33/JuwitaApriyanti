@@ -1,0 +1,2 @@
+# JuwitaApriyanti
+ANN dan RNN
